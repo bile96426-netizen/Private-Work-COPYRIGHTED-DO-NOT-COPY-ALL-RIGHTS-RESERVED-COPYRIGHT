@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Discord Bot Platform",
+  "description": "A Next.js dashboard for managing, configuring, and hosting AI-powered Discord bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
